@@ -10,84 +10,23 @@
 
 <br><br>
 
-<svg width="640" height="410" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="50%" stop-color="#C026D3"/>
-      <stop offset="100%" stop-color="#22D3EE"/>
-    </linearGradient>
-  </defs>
-  <style>
-    text { font-family: 'Segoe UI', Verdana, sans-serif; }
-    .lbl { fill: #e5e7eb; font-size: 15px; font-weight: 600; }
-    .pct { fill: #C026D3; font-size: 14px; font-weight: 700; }
-  </style>
-
-  <text class="lbl" x="4" y="34">HTML</text>
-  <text class="pct" x="636" y="34" text-anchor="end">80%</text>
-  <rect x="4" y="42" width="632" height="12" rx="6" fill="#1f2937"/>
-  <rect x="4" y="42" height="12" rx="6" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="505" dur="1s" begin="0s" fill="freeze"/>
-  </rect>
-
-  <text class="lbl" x="4" y="82">CSS</text>
-  <text class="pct" x="636" y="82" text-anchor="end">63%</text>
-  <rect x="4" y="90" width="632" height="12" rx="6" fill="#1f2937"/>
-  <rect x="4" y="90" height="12" rx="6" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="398" dur="1s" begin="0.15s" fill="freeze"/>
-  </rect>
-
-  <text class="lbl" x="4" y="130">JavaScript</text>
-  <text class="pct" x="636" y="130" text-anchor="end">68%</text>
-  <rect x="4" y="138" width="632" height="12" rx="6" fill="#1f2937"/>
-  <rect x="4" y="138" height="12" rx="6" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="430" dur="1s" begin="0.3s" fill="freeze"/>
-  </rect>
-
-  <text class="lbl" x="4" y="178">TypeScript</text>
-  <text class="pct" x="636" y="178" text-anchor="end">57%</text>
-  <rect x="4" y="186" width="632" height="12" rx="6" fill="#1f2937"/>
-  <rect x="4" y="186" height="12" rx="6" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="360" dur="1s" begin="0.45s" fill="freeze"/>
-  </rect>
-
-  <text class="lbl" x="4" y="226">React Native</text>
-  <text class="pct" x="636" y="226" text-anchor="end">46%</text>
-  <rect x="4" y="234" width="632" height="12" rx="6" fill="#1f2937"/>
-  <rect x="4" y="234" height="12" rx="6" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="291" dur="1s" begin="0.6s" fill="freeze"/>
-  </rect>
-
-  <text class="lbl" x="4" y="274">Python</text>
-  <text class="pct" x="636" y="274" text-anchor="end">74%</text>
-  <rect x="4" y="282" width="632" height="12" rx="6" fill="#1f2937"/>
-  <rect x="4" y="282" height="12" rx="6" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="468" dur="1s" begin="0.75s" fill="freeze"/>
-  </rect>
-
-  <text class="lbl" x="4" y="322">Node.js</text>
-  <text class="pct" x="636" y="322" text-anchor="end">46%</text>
-  <rect x="4" y="330" width="632" height="12" rx="6" fill="#1f2937"/>
-  <rect x="4" y="330" height="12" rx="6" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="291" dur="1s" begin="0.9s" fill="freeze"/>
-  </rect>
-
-  <text class="lbl" x="4" y="362">Java</text>
-  <text class="pct" x="636" y="362" text-anchor="end">46%</text>
-  <rect x="4" y="370" width="632" height="12" rx="6" fill="#1f2937"/>
-  <rect x="4" y="370" height="12" rx="6" fill="url(#barGrad)">
-    <animate attributeName="width" from="0" to="291" dur="1s" begin="1.05s" fill="freeze"/>
-  </rect>
-</svg>
+<img src="languages.svg" width="640" alt="linguagens de programação" />
 
 <br>
 
-📅 `App de Agendamento` &nbsp;•&nbsp; 🎮 `MotionVerse` &nbsp;•&nbsp; 🧬 `BioShield`
+### 🏆 conquistas desbloqueadas
 
-<br><br>
+![Agendamento](https://img.shields.io/badge/📅_App_de_Agendamento-7C3AED?style=for-the-badge&labelColor=1a1a2e)
+![MotionVerse](https://img.shields.io/badge/🎮_MotionVerse-C026D3?style=for-the-badge&labelColor=1a1a2e)
+![BioShield](https://img.shields.io/badge/🧬_BioShield-22D3EE?style=for-the-badge&labelColor=1a1a2e)
 
-[![LinkedIn](https://img.shields.io/badge/-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiane-duarte-24b2003ba)
-[![Gmail](https://img.shields.io/badge/-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duartedaiane458@gmail.com)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/daiane-duarte-24b2003ba)
+[![Gmail](https://img.shields.io/badge/Gmail-C026D3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:duartedaiane458@gmail.com)
+
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=daihoss&style=for-the-badge&color=22D3EE&labelColor=1a1a2e&label=PLAYER+VIEWS)
 
 </div>
