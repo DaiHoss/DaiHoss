@@ -93,7 +93,6 @@ Atualmente, estou desenvolvendo meus conhecimentos em programação e buscando e
 
 | Projeto | Descrição |
 |---|---|
-| 🎮 Algoritmos da Guerra | Jogo de cartas inspirado em Gwent, utilizando conceitos de programação. |
 | 💈 BarbeariaApp | Projeto de programação em grupo com backend e banco de dados. |
 | 🌐 Projetos Web | Interfaces e páginas desenvolvidas durante o curso. |
 | 🔌 Redes no Packet Tracer | Simulações e configurações de redes de computadores. |
