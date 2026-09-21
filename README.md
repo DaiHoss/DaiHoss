@@ -1,30 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:1a1a2e&height=220&section=header&text=DaiHoss&fontSize=70&fontColor=A855F7&fontAlignY=38&desc=dev%20%26%20banco%20de%20dados&descAlignY=58&descSize=22&descColor=c9d1d9&animation=fadeIn" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=2500&pause=1200&color=C026D3&center=true&vCenter=true&width=700&height=50&lines=Daiane+Duarte" alt="nome" />
 
-`estudante de TI · SENAC SP` &nbsp;•&nbsp; `MotionVerse` &nbsp;•&nbsp; `BioShield`
-
-![Profile views](https://komarev.com/ghpvc/?username=daihoss&style=for-the-badge&color=1a1a2e&labelColor=0D1117)
-[![LinkedIn](https://img.shields.io/badge/-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiane-duarte-24b2003ba)
-[![Gmail](https://img.shields.io/badge/-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duartedaiane458@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AE+status%3A+leveling+up+in+frontend;%F0%9F%95%B9%EF%B8%8F+building+MotionVerse+%26+BioShield;%F0%9F%92%9C+TI+%40+SENAC+SP" alt="status" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=py,html,css,js,ts,java,nodejs,react,mysql,git,github,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,nodejs,java,mysql,git,github,vscode&theme=dark&perline=6" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=daihoss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8A2BE2&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daihoss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" width="35%" />
+<svg width="640" height="410" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#C026D3"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Verdana, sans-serif; }
+    .lbl { fill: #e5e7eb; font-size: 15px; font-weight: 600; }
+    .pct { fill: #C026D3; font-size: 14px; font-weight: 700; }
+  </style>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daihoss&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=8A2BE2&currStreakLabel=A855F7" width="70%" />
+  <text class="lbl" x="4" y="34">HTML</text>
+  <text class="pct" x="636" y="34" text-anchor="end">80%</text>
+  <rect x="4" y="42" width="632" height="12" rx="6" fill="#1f2937"/>
+  <rect x="4" y="42" height="12" rx="6" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="505" dur="1s" begin="0s" fill="freeze"/>
+  </rect>
 
-<img src="https://github-profile-trophy.vercel.app/?username=daihoss&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="90%" />
+  <text class="lbl" x="4" y="82">CSS</text>
+  <text class="pct" x="636" y="82" text-anchor="end">63%</text>
+  <rect x="4" y="90" width="632" height="12" rx="6" fill="#1f2937"/>
+  <rect x="4" y="90" height="12" rx="6" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="398" dur="1s" begin="0.15s" fill="freeze"/>
+  </rect>
 
-<br><br>
+  <text class="lbl" x="4" y="130">JavaScript</text>
+  <text class="pct" x="636" y="130" text-anchor="end">68%</text>
+  <rect x="4" y="138" width="632" height="12" rx="6" fill="#1f2937"/>
+  <rect x="4" y="138" height="12" rx="6" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="430" dur="1s" begin="0.3s" fill="freeze"/>
+  </rect>
+
+  <text class="lbl" x="4" y="178">TypeScript</text>
+  <text class="pct" x="636" y="178" text-anchor="end">57%</text>
+  <rect x="4" y="186" width="632" height="12" rx="6" fill="#1f2937"/>
+  <rect x="4" y="186" height="12" rx="6" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="360" dur="1s" begin="0.45s" fill="freeze"/>
+  </rect>
+
+  <text class="lbl" x="4" y="226">React Native</text>
+  <text class="pct" x="636" y="226" text-anchor="end">46%</text>
+  <rect x="4" y="234" width="632" height="12" rx="6" fill="#1f2937"/>
+  <rect x="4" y="234" height="12" rx="6" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="291" dur="1s" begin="0.6s" fill="freeze"/>
+  </rect>
+
+  <text class="lbl" x="4" y="274">Python</text>
+  <text class="pct" x="636" y="274" text-anchor="end">74%</text>
+  <rect x="4" y="282" width="632" height="12" rx="6" fill="#1f2937"/>
+  <rect x="4" y="282" height="12" rx="6" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="468" dur="1s" begin="0.75s" fill="freeze"/>
+  </rect>
+
+  <text class="lbl" x="4" y="322">Node.js</text>
+  <text class="pct" x="636" y="322" text-anchor="end">46%</text>
+  <rect x="4" y="330" width="632" height="12" rx="6" fill="#1f2937"/>
+  <rect x="4" y="330" height="12" rx="6" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="291" dur="1s" begin="0.9s" fill="freeze"/>
+  </rect>
+
+  <text class="lbl" x="4" y="362">Java</text>
+  <text class="pct" x="636" y="362" text-anchor="end">46%</text>
+  <rect x="4" y="370" width="632" height="12" rx="6" fill="#1f2937"/>
+  <rect x="4" y="370" height="12" rx="6" fill="url(#barGrad)">
+    <animate attributeName="width" from="0" to="291" dur="1s" begin="1.05s" fill="freeze"/>
+  </rect>
+</svg>
+
+<br>
 
 📅 `App de Agendamento` &nbsp;•&nbsp; 🎮 `MotionVerse` &nbsp;•&nbsp; 🧬 `BioShield`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:302B63,100:0F0C29&height=120&section=footer" width="100%" />
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/-A855F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daiane-duarte-24b2003ba)
+[![Gmail](https://img.shields.io/badge/-A855F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duartedaiane458@gmail.com)
 
 </div>
